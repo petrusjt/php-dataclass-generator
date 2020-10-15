@@ -86,4 +86,4 @@ class Test
 ?>
 ```
 
-int the file Test.php
+in the file Test.php
